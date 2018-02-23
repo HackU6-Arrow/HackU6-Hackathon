@@ -33,7 +33,12 @@ To deploy your project into the firebase cloud
 * From the Dialogflow console in the left navigation menu, select "Integrations.
 * In the settings form that appears, leave everything as default and click TEST.
 
-##Firebase Data base Queires:
+## Firebase Data base Queires:
  
 * Firebase [Queries](https://firebase.google.com/docs/reference/js/firebase.database.Query) will provide you the basic information to interact with the database. 
 * Undertstanding how to use startAt(), endAt(), and equalTo() in the queries is required for the smooth flow of interactivity with the database
+
+
+References:
+* [Codelab] (https://codelabs.developers.google.com/codelabs/assistant-codelab/index.html?index=..%2F..%2Findex#0)
+
