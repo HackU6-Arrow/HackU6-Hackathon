@@ -6,3 +6,14 @@ Google Home is a Wi-Fi speaker that can act as a personal assistant for the enti
  * Second we need to create dialog flow through google dialog flow.
  * Combined will provide you a way to have a perfect product at your hand
  
+ ## Firebase setup
+
+* Create a new project in firebase console
+* Import your json data into the database
+To deploy your project into the firebase cloud 
+* Enter "firebase login" in the command prompt 
+* Enter "firebase init" in the command prompt at the project directory.
+* Select all default options
+* Go with "firebase deploy" in the project directory.
+* Save the URL provided by the firebase to interact with the Dialog Flow
+ 
