@@ -30,3 +30,5 @@ To deploy your project into the firebase cloud
 * The Webhook should already be enabled; if it isn't, toggle the ENABLED switch.
 * Replace or fill in the URL field with the URL from firebase
 * Click SAVE
+* From the Dialogflow console in the left navigation menu, select "Integrations.
+* In the settings form that appears, leave everything as default and click TEST.
