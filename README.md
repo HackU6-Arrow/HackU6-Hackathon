@@ -39,6 +39,7 @@ To deploy your project into the firebase cloud
 * Undertstanding how to use startAt(), endAt(), and equalTo() in the queries is required for the smooth flow of interactivity with the database
 
 
-References:
+## References:
 * Information from [Codelab](https://codelabs.developers.google.com/codelabs/assistant-codelab/index.html?index=..%2F..%2Findex#0)
+* [Firebase](https://firebase.google.com/)
 
