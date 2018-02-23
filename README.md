@@ -41,4 +41,4 @@ To deploy your project into the firebase cloud
 
 References:
 *  Information from [Codelab] (https://codelabs.developers.google.com/codelabs/assistant-codelab/index.html?index=..%2F..%2Findex#0)
-
+* Firebase [Codelab](https://codelabs.developers.google.com/codelabs/assistant-codelab/index.html?index=..%2F..%2Findex#0) will provide you the basic information to interact with the database.
