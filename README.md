@@ -37,6 +37,7 @@ To deploy your project into the firebase cloud
  
 * Firebase [Queries](https://firebase.google.com/docs/reference/js/firebase.database.Query) will provide you the basic information to interact with the database. 
 * Undertstanding how to use startAt(), endAt(), and equalTo() in the queries is required for the smooth flow of interactivity with the database
+* Understanding how to debug using firebase will solve a lot of problems
 
 
 ## References:
