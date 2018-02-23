@@ -32,3 +32,7 @@ To deploy your project into the firebase cloud
 * Click SAVE
 * From the Dialogflow console in the left navigation menu, select "Integrations.
 * In the settings form that appears, leave everything as default and click TEST.
+
+##Firebase Data base Queires:
+ 
+Firebase Queries documentation[link](https://firebase.google.com/docs/reference/js/firebase.database.Query) will provide you the basic information to interact with the database. 
