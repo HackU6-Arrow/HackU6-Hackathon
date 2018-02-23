@@ -17,4 +17,16 @@ To deploy your project into the firebase cloud
 * Select all default options
 * Go with "firebase deploy" in the project directory.
 * Save the URL provided by the firebase to interact with the Dialog Flow
- 
+
+## Basic Dialog Flow Setup
+* Create a new Dialogflow project
+* Log into the Dialogflow console.
+* Follow the introduction tutorial from google developer console to create your first agent.
+* Fill in with name and description
+* Under "Google Project", select the Firebase project you created in the Firebase step.
+* Click SAVE
+* Update the fulfillment webhook
+* In the left navigation pane click on Fulfillment.
+* The Webhook should already be enabled; if it isn't, toggle the ENABLED switch.
+* Replace or fill in the URL field with the URL from firebase
+* Click SAVE
